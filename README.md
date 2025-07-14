@@ -56,11 +56,9 @@ CREATE TABLE zepto (
   outOfStock BOOLEAN,
   quantity INTEGER
 );
+---
 
-
-
-
-# 🛒 Zepto Product Data - Exploratory Data Analysis (EDA)
+## 🛒 Zepto Product Data - Exploratory Data Analysis (EDA)
 
 This project performs an in-depth Exploratory Data Analysis on a Zepto product dataset to uncover trends, detect anomalies, and generate business insights.
 
