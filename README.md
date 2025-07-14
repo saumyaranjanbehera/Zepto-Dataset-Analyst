@@ -132,5 +132,5 @@ pip install ydata-profiling
 👨‍💻 About the Author
 Hey, I’m Saumya Ranjan Behera — a Data Analyst & Data Engineer
 
-📬 Connect with me on LinkedIn
+📬 Connect with me on LinkedIn https://www.linkedin.com/in/saumyaranjanbehera/
 
