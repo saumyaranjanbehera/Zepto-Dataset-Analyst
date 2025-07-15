@@ -109,7 +109,7 @@ The dataset represents product listings from Zepto, including pricing, discounts
 |------|-------------|
 | `zepto_dashboard_ready.csv` | Cleaned and enriched data for analysis |
 | `Zepto_EDA_Report.html` | Auto-generated profiling report (open in browser) |
-| `Zepto_EDA.ipynb` *(optional)* | Notebook used to process data |
+
 
 
 ---
